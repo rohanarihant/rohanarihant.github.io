@@ -1,20 +1,20 @@
 {
   data: [
     {
-      name:'Rohan',
-      online:true
+      'name':'Rohan',
+      'online':true
     },
     {
-      name:'Hari',
-      online:false
+      'name':'Hari',
+      'online':false
     },
     {
-      name:'Sangam',
-      online:true
+      'name':'Sangam',
+      'online':true
     },
     {
-      name:'Jai',
-      online:false
+      'name':'Jai',
+      'online':false
     },
   ]
 }
